@@ -24,6 +24,7 @@
     <ProjectGuid>{6b0792d8-bfe2-47ec-b9b3-51ecd2689a58}</ProjectGuid>
     <RootNamespace>lab2bignumbers</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>lab2_BigNumb</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -139,7 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="lab2_big_numbers.cpp" />
+    <ClCompile Include="lab2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
