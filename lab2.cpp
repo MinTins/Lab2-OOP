@@ -1,4 +1,9 @@
-﻿#include <algorithm>
+﻿/*
+K-23 Flakey Roman
+Lab 2 Big-Numb
+*/
+
+#include <algorithm>
 #include <iostream>
 #include <random>
 #include <string>
